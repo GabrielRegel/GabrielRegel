@@ -34,5 +34,5 @@ Feel free to explore my repositories and see what I'm working on! Any feedback i
 ---
 
 <div align="center" style="border: 3px solid white; border-radius: 10px; overflow: hidden;">
-    <img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
+    <img height="450" width="450" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
 </div>
