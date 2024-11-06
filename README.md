@@ -1,32 +1,38 @@
-# Olá! 👋 Bem-vindo ao meu perfil no GitHub!
+# Hello! 👋 Welcome to my GitHub profile!
 <div align="center">
 <img height="250" width="1000" src="https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif">
 </div>
 
-Sou estudante do 2º ano do ensino médio técnico em Desenvolvimento de Sistemas e estou constantemente aprimorando minhas habilidades de programação. No momento, estou focado em **JavaScript**, **HTML semântico**, **projetos interativos** e estou explorando o **Python** e o uso de **APIs** para desenvolver projetos mais robustos.
+I'm a 2nd-year technical high school student in Systems Development, constantly working on improving my programming skills. Currently, I'm focused on **JavaScript**, **semantic HTML**, **interactive projects**, and I'm exploring **Python** and **APIs** to build more robust projects.
 
-## 🚀 Sobre mim
-- 🎓 Estudante de Desenvolvimento de Sistemas
-- 💡 Interessado em projetos inclusivos e acessíveis
-- 🌱 Atualmente, aprendendo **Python** e explorando **integração com APIs públicas**
-- 📚 Gosto de desenvolver aplicações interativas e tenho interesse na área de **design web** e **front-end**
+## 🚀 About Me
+- 🎓 Systems Development Student
+- 💡 Interested in inclusive and accessible projects
+- 🌱 Currently learning **Python** and exploring **public API integration**
+- 📚 I enjoy developing applications and have a strong interest in **back-end and front-end development**
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: JavaScript, HTML, CSS, PHP, TWIG, Java, SQL.
-- **Ferramentas de Desenvolvimento**: VS Code, Git, Netbeans, DBeaver.
-- **Explorando**: Python, APIs, Design Responsivo.
-- **Projetos em destaque**:
-  - [Projeto web de musica](https://gabrielregel.github.io/NectarNotes/index.html) - Um projeto escolar, com o intuito de Aprendizagem na área de Programação web.
-  - [Projeto com a temática de incêndios florestais](https://regel1106.github.io/NasaSpaceApps/) - Projeto desenvolvido em um hackathon da NASA, voltado para o público de alunos e professores do ensino fundamental/médio.
+## 🛠️ Technologies and Tools
+- **Languages**: JavaScript, HTML, CSS, PHP, TWIG, Java, SQL
+- **Development Tools**: VS Code, Git, Netbeans, DBeaver
+- **Exploring**: Python, APIs, Responsive Design
+- **Highlighted Projects**:
+  - [Music Web Project](https://gabrielregel.github.io/NectarNotes/index.html) - A school project focused on learning in the field of web programming.
+  - [Wildfire-Themed Project](https://regel1106.github.io/NasaSpaceApps/) - Developed during a NASA hackathon, aimed at elementary and high school students and teachers.
 
-## 📈 Minhas metas
-- Desenvolver proficiência em programação **Fullstack**
-- Explorar **desenvolvimento de APIs** e melhorar a integração entre front-end e back-end
-- Contribuir para projetos open-source focados em acessibilidade
-- Aprender mais sobre tecnologias de **machine learning**
+## 📈 My Goals
+- Build proficiency in **Fullstack development**
+- Explore **API development** and improve front-end and back-end integration
+- Contribute to open-source projects focused on accessibility
+- Learn more about **machine learning** technologies
 
-## 🌍 Como me encontrar
-- [LinkedIn](https://www.linkedin.com)
-- [E-mail](mailto:seuemail@exemplo.com)
+## 🌍 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/gabriel-regel-6b383330b/)
+- [Email](mailto:regelgabriel3@gmail.com)
 
-Fique à vontade para explorar meus repositórios e ver o que estou criando! Qualquer feedback é bem-vindo e estou sempre aberto a colaborações. Vamos criar algo incrível juntos! 🚀
+Feel free to explore my repositories and see what I'm working on! Any feedback is welcome, and I'm always open to collaborations. Let’s create something amazing together! 🚀
+
+---
+
+<div align="center" style="border: 3px solid white; border-radius: 10px; overflow: hidden;">
+    <img src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
+</div>
