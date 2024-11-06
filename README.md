@@ -1,4 +1,7 @@
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub!
+<div align="center">
+<img height="250" width="1000" src="https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif">
+</div>
 
 Sou estudante do 2º ano do ensino médio técnico em Desenvolvimento de Sistemas e estou constantemente aprimorando minhas habilidades de programação. No momento, estou focado em **JavaScript**, **HTML semântico**, **projetos interativos** e estou explorando o **Python** e o uso de **APIs** para desenvolver projetos mais robustos.
 
