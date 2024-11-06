@@ -9,16 +9,15 @@ Sou estudante do 2º ano do ensino médio técnico em Desenvolvimento de Sistema
 - 📚 Gosto de desenvolver aplicações interativas e tenho interesse na área de **design web** e **front-end**
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: JavaScript, HTML, CSS
-- **Ferramentas de Desenvolvimento**: VS Code, Git
-- **Explorando**: Python, APIs, Design Responsivo
+- **Linguagens**: JavaScript, HTML, CSS, PHP, TWIG, Java, SQL.
+- **Ferramentas de Desenvolvimento**: VS Code, Git, Netbeans, DBeaver.
+- **Explorando**: Python, APIs, Design Responsivo.
 - **Projetos em destaque**:
-  - [Simulador de imposto de renda](link_do_projeto) - Um projeto para cálculo de imposto de renda usando JavaScript.
-  - [Projeto com a temática de incêndios florestais](link_do_projeto) - Projeto desenvolvido em um hackathon da NASA, voltado para o público de alunos e professores do ensino fundamental/médio.
-  - [Site interativo com pet virtual](link_do_projeto) - Uma aplicação onde o usuário pode vestir um pet virtual.
+  - [Projeto web de musica](https://gabrielregel.github.io/NectarNotes/index.html) - Um projeto escolar, com o intuito de Aprendizagem na área de Programação web.
+  - [Projeto com a temática de incêndios florestais](https://regel1106.github.io/NasaSpaceApps/) - Projeto desenvolvido em um hackathon da NASA, voltado para o público de alunos e professores do ensino fundamental/médio.
 
 ## 📈 Minhas metas
-- Desenvolver proficiência em **Python**
+- Desenvolver proficiência em programação **Fullstack**
 - Explorar **desenvolvimento de APIs** e melhorar a integração entre front-end e back-end
 - Contribuir para projetos open-source focados em acessibilidade
 - Aprender mais sobre tecnologias de **machine learning**
