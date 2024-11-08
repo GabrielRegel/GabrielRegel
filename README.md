@@ -18,6 +18,7 @@ I'm a 2nd-year technical high school student in Systems Development, constantly 
 - **Highlighted Projects**:
   - [Music Web Project](https://gabrielregel.github.io/NectarNotes/index.html) - A school project focused on learning in the field of web programming.
   - [Wildfire-Themed Project](https://regel1106.github.io/NasaSpaceApps/) - Developed during a NASA hackathon, aimed at elementary and high school students and teachers.
+  - [ClimaTracker](https://gabrielregel.github.io/ClimaTracker/) - A school project focused on real-time weather tracking, utilizing the WeatherAPI to display climate data, with interactive design.
 
 ## 📈 My Goals
 - Build proficiency in **Fullstack development**
