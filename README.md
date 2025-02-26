@@ -29,8 +29,10 @@ I'm a **3rd-year technical high school student in Systems Development**, constan
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Notepad%2B%2B_Logo.png" height="40" width="40" />
+    <img src="https://th.bing.com/th/id/OIP.80jUDI1g2d0cjvnGVLAnBQHaIi?rs=1&pid=ImgDetMain" height="40" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" width="40" />
+    <img src="https://logodix.com/logo/1677158.jpg" height="40" width="40" />
+    
 </p>
 
 ### **Highlighted Projects**
