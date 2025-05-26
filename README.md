@@ -57,6 +57,8 @@ Feel free to explore my repositories and see what I'm working on! Any feedback i
 
 ![GabrielRegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRegel&show_icons=true&theme=github_light)
 
+---
+
 <div align="center" style="border: 3px solid white; border-radius: 10px; overflow: hidden;">
     <img height="200" width="200" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
 </div>
