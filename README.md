@@ -1,4 +1,4 @@
-# Hello! 👋 Welcome to my GitHub profile!
+# Hello! 👋🏻 Welcome to my GitHub profile!
 <div align="center">
 <img height="250" width="1000" src="https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif">
 </div>
@@ -62,4 +62,5 @@ Feel free to explore my repositories and see what I'm working on! Any feedback i
 <div align="center" style="border: 3px solid white; border-radius: 10px; overflow: hidden;">
     <img height="200" width="200" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
 </div>
+
 
