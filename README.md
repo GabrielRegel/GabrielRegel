@@ -1,66 +1,70 @@
-# Hello! 👋🏻 Welcome to my GitHub profile!
 <div align="center">
-<img height="250" width="1000" src="https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2596be&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gabriel Regel!+%F0%9F%91%8B%F0%9F%8F%BB;" alt="Typing SVG" />
 </div>
-
-I'm a **3rd-year technical high school student in Systems Development**, constantly working on improving my programming skills. Currently, I'm focused on **connecting front-end, back-end, and databases**, as well as **hosting full-stack applications**.
 
 ## 🚀 About Me
-- 🎓 Systems Development Student
-- 💡 Interested in inclusive and accessible projects
-- 🌱 Currently learning **full-stack integration** and **deployment**
-- 📚 Passionate about programming, with a strong interest in **back-end and front-end development**
+I am a **Full Stack Developer**  with an established professional track record, specializing in end-to-end applications. Currently, I am deepening my expertise in **AI** and **Software Best Practices** (Clean Code & Architecture) as I prepare to begin my Bachelor’s degree in the field.
 
-## 🛠️ Technologies and Tools
-### **Languages & Frameworks**
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" />
+---
+
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" style="margin: 4px;" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" style="margin: 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" style="margin: 4px;" />
 </p>
 
-### **Development Tools**
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
-    <img src="https://th.bing.com/th/id/R.f348d40c8d60d9dd1c8ef9c654b02705?rik=vWlWz0rp8H2Meg&pid=ImgRaw&r=0" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" width="40" />
-    <img src="https://www.kindpng.com/picc/m/116-1169279_notepad-logo-png-transparent-png.png" height="40" width="52" />
-    
-</p>
+---
 
-### **Highlighted Projects**
-- [Music Web Project](https://gabrielregel.github.io/NectarNotes/index.html) - A school project focused on learning in the field of web programming.
-- [Wildfire-Themed Project](https://regel1106.github.io/NasaSpaceApps/) - Developed during a NASA hackathon, aimed at elementary and high school students and teachers.
-- [ClimaTracker](https://gabrielregel.github.io/ClimaTracker/) - A school project focused on real-time weather tracking, utilizing the WeatherAPI to display climate data, with interactive design.
+### ✨ **Highlighted Projects**
+
+| Project Name | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**WPPConnect**](https://github.com/Regel1106/wppconnect) | *Automated WhatsApp messaging system integrated with SQL databases.* | `Node.js` `MySQL` `Webhooks` |
+| [**Tracking System (Ponce)**](https://rastreio.ponce.vc) | *Logistics tracking hub integrated with multiple carrier APIs for real-time updates.* | `PHP` `JavaScript` `Rest API` |
+| [**ClimaTracker**](https://github.com/Regel1106/ClimaTracker) | *Weather forecasting application focused on public API integration and data fetching.* | `JavaScript` `HTML/CSS` `Rest API` |
+---
 
 ## 📊 My Goals
-- Build proficiency in **Fullstack development**
-- Explore **API development** and improve front-end and back-end integration
-- Learn more about **database management and hosting**
-- Contribute to open-source projects focused on accessibility
-- Study **machine learning** and its applications
+> *"Learning never exhausts the mind."*
+
+- 🔭 Build proficiency in **Fullstack development**
+- 🤖 Deepen knowledge in **Artificial Intelligence** and its practical applications
+- 🤝 Contribute to open-source projects focused on accessibility
+- ⚛️ Master modern **Frameworks** to build scalable applications
+---
 
 ## 🌍 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/gabriel-regel-6b383330b/)
-- [Email](mailto:regelgabriel3@gmail.com)
 
-Feel free to explore my repositories and see what I'm working on! Any feedback is welcome, and I'm always open to collaborations. Let’s create something amazing together! 🚀
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/gabriel-regel-6b383330b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:regelgabriel3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-![GabrielRegel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRegel&show_icons=true&theme=github_light)
-
----
-
-<div align="center" style="border: 3px solid white; border-radius: 10px; overflow: hidden;">
-    <img height="200" width="200" src="https://c.tenor.com/b4YzfTiBP7MAAAAC/bye-bye-pokemon.gif">
 </div>
+
+<br>
+
+<p align="center">
+  Feel free to explore my repositories! Any feedback is welcome.<br>
+  Let’s create something amazing together! 🚀
+</p>
+
+
 
 
