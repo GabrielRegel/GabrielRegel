@@ -9,7 +9,7 @@ I am a **Full Stack Developer**  with an established professional track record, 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" style="margin: 2px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" style="margin: 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" style="margin: 2px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" style="margin: 2px;" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" style="margin: 2px;" />
@@ -63,6 +63,7 @@ I am a **Full Stack Developer**  with an established professional track record, 
   Feel free to explore my repositories! Any feedback is welcome.<br>
   Let’s create something amazing together! 🚀
 </p>
+
 
 
 
