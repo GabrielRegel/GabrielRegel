@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2596be&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Gabriel Regel!+%F0%9F%91%8B%F0%9F%8F%BB;" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2596BE&width=435&lines=Hello+I'm+Gabriel+Regel!+%F0%9F%91%8B%F0%9F%8F%BC;I+am+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 ## 🚀 About Me
@@ -64,6 +64,7 @@ I am a **Full Stack Developer**  with an established professional track record, 
   Feel free to explore my repositories! Any feedback is welcome.<br>
   Let’s create something amazing together! 🚀
 </p>
+
 
 
 
