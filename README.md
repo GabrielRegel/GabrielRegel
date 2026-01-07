@@ -59,10 +59,6 @@ I am a **Full Stack Developer**  with an established professional track record, 
 
 <br>
 
-<p align="center">
-  Feel free to explore my repositories! Any feedback is welcome.<br>
-  Let’s create something amazing together! 🚀
-</p>
 
 
 
